@@ -22,3 +22,7 @@
 [Lecture 9](./lectures/lecture09.md)
 
 [Lecture 10](./lectures/lecture10.md)
+
+[Lecture 11](./lectures/lecture11.md)
+
+[Lecture 12](./lectures/lecture12.md)
